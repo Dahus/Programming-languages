@@ -1,0 +1,17 @@
+<root>
+  <instance x="-5.48" y="-0.8000002" typeBlock="GreenBlock" />
+  <instance x="-3.48" y="0.199999809" typeBlock="GreenBlock" />
+  <instance x="-5.48" y="0.6999998" typeBlock="GreenBlock" />
+  <instance x="-2.48" y="1.69999981" typeBlock="GreenBlock" />
+  <instance x="-0.480000019" y="1.69999981" typeBlock="GreenBlock" />
+  <instance x="2.52" y="1.69999981" typeBlock="GreenBlock" />
+  <instance x="3.52" y="0.6999998" typeBlock="GreenBlock" />
+  <instance x="0.52" y="0.6999998" typeBlock="GreenBlock" />
+  <instance x="-6.48" y="2.69999981" typeBlock="RedBlock" />
+  <instance x="-4.48" y="2.69999981" typeBlock="RedBlock" />
+  <instance x="-2.48" y="2.69999981" typeBlock="RedBlock" />
+  <instance x="0.52" y="3.19999981" typeBlock="RedBlock" />
+  <instance x="2.52" y="3.19999981" typeBlock="RedBlock" />
+  <instance x="4.52" y="2.69999981" typeBlock="RedBlock" />
+  <instance x="5.52" y="1.69999981" typeBlock="RedBlock" />
+</root>
